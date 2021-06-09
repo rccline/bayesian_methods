@@ -14,6 +14,7 @@ This repository is a collection of notes and materials from Physalia Courses cla
 * An initiation R-script *bayes_set_seed.R*    
   - *bayes_set_seed.R* is used as a source script which is called by each script within the course.  
   - The initiation script loads the libraries used for the scripts and sets the working directory to the folder where the script resides.  
+* Script *Beta_Distribution.R* - formulas and graphs from [Ed Boone's YouTube channel](https://www.youtube.com/watch?v=feKUEc62ykc)
   
   
   
